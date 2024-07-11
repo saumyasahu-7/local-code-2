@@ -2,7 +2,7 @@
 #with deque
 from collections import deque
 q = deque()
-q.append('a')
+q.append('3')
 q.append('b')
 q.append('c')
 print(q)
